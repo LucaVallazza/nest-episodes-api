@@ -1,0 +1,9 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "rules":{
+    "prettier/prettier": 0
+  },
+  "endOfLine": "auto"
+
+}
